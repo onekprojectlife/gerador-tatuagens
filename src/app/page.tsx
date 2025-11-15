@@ -78,7 +78,7 @@ export default function Home() {
                 <div key={i} className="w-8 h-8 rounded-full bg-gradient-to-br from-amber-500 to-amber-700 border-2 border-zinc-900" />
               ))}
             </div>
-            <span>Trusted by 70M+ users</span>
+            <span>Trusted by 100k+ users</span>
           </div>
         </div>
 
